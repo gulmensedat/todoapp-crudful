@@ -1,6 +1,11 @@
 import 'package:crudfulapp/view/tasks.dart';
 import 'package:flutter/material.dart';
 
+//Sedat Gülmen tarafından Crudful.com için yazılmıştır
+// 2020
+
+//It was coded for Crudful.com by Sedat Gülmen.
+
 void main() {
   runApp(MyApp());
 }
