@@ -7,7 +7,7 @@
 <br>
 <h4>Used Flutter Packages<h4>
  
-<a href='https://pub.dev/packages/flutter_slidable'><h4>Slidable Animation: flutter_slidable</h4></a/>
-<a href='https://pub.dev/packages/http'><h4>Flutter http: http</h4></a/>
+Slidable Animation: <a href='https://pub.dev/packages/flutter_slidable'><h4>flutter_slidable</h4></a>
+Flutter http: <a href='https://pub.dev/packages/http'><h4>http</h4></a>
 
     
